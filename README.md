@@ -1,2 +1,2 @@
-# IA-e-automacao-na-Pratica
-Meu aprendizado em inteligência artificial e automação
+Este espaço é para organizar meus estudos e projetos
+sobre inteligência artificial e automação.
